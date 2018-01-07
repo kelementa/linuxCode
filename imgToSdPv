@@ -1,0 +1,4 @@
+# usage:
+# imgToSdPv [source: diskimage] [dest: disk]
+# source: linux.img
+# dest: /dev/mmcblk01
