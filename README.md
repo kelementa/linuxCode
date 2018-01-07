@@ -1,0 +1,2 @@
+# linuxCode
+Linux parancsok
